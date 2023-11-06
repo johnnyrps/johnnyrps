@@ -45,4 +45,4 @@
 
 <br>
 
-![Snake animation](https://github.com/johnnyrps/johnnypecego/blob/main/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/johnnyrps/johnnyrps/blob/main/github-contribution-grid-snake.svg)
