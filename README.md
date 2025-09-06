@@ -5,7 +5,7 @@
 ### :zap: Um pouco sobre mim:
 * :fleur_de_lis: 🇧🇷 - Ribeirão Preto - SP
 * :computer: Engenheiro da Computação e apaixonado por tecnologia!
-* 🚀 Atualmente estudando sobre desenvolvimento Web e IoT
+* 🚀 Atualmente estudando sobre Agentes de IA e Automações com IA Humanizada
 * :purple_heart: &nbsp; Buscando colaborar com projetos Full Stack.
 * 🎸 No meu tempo livre gosto de passar o tempo com a família, Curto tecnologias, e gosto de pescar.
 * :battery: &nbsp; "Kaizen!!!" Filosofia de melhoria contínua!
